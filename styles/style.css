@@ -1,0 +1,44 @@
+h1 {
+    font-size: 90px!important;
+    /* font-weight: inherit; */
+}
+h2 {
+    font-size: 80px!important;
+    line-height: 1.2!important;
+    font-weight: 500;
+}
+h3 {
+    font-size: 44px!important;
+    line-height: 1.2!important;
+}
+h4 {
+    font-size: 26px!important;
+    line-height: 1.2!important;
+    font-weight: inherit;
+}
+h5 {
+    font-size: 22px!important;
+    font-weight: inherit;
+    line-height: 1.2!important;
+}
+h6 {
+    font-size: 16px;
+    font-weight: inherit;
+    line-height: 1.2!important;
+}
+p,li {
+    font-size: 32px!important;
+    line-height: 1.2!important;
+}
+.mybody {
+    font-size: 32px;
+    line-height: 1.2;
+}
+.smaller ul li p {
+    font-size: 26px!important;
+    line-height: 1.2!important;
+}
+.smaller ul li{
+    font-size: 26px!important;
+    line-height: 1.2!important;
+}
